@@ -2,6 +2,7 @@
 
 ## Digests
 
+- 2026-10-16 — [EB-1A Trends 2026-10-16](digests/2026-10-16.md): Quiet day; no new official changes; firm-reported ML approvals cite peer-review counts
 - 2026-10-15 — [EB-1A Trends 2026-10-15](digests/2026-10-15.md): Quiet day; no new official changes; firm-reported refile approval after denial
 - 2026-10-14 — [EB-1A Trends 2026-10-14](digests/2026-10-14.md): Quiet day; no new official changes; Nov visa bulletin not yet out
 - 2026-10-13 — [EB-1A Trends 2026-10-13](digests/2026-10-13.md): Quiet day; no new official changes; firm roundups only
